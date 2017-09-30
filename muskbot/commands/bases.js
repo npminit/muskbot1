@@ -8,7 +8,7 @@ exports.run = (client, message, args) => {
  
   list(message.group.id, (list) => {
     
-    
+    //Test
         
         var warT = '';
         if (WarData.stats.state === 'preparation') {
