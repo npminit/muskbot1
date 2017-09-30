@@ -1,6 +1,6 @@
 module.exports = {
   line: {
-    channelAccessToken: "",
+    channelAccessToken: "", //help
     channelSecret: "",
     port: "8080"
   },
